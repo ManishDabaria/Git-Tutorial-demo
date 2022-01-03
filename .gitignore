@@ -1,4 +1,4 @@
 *.log
 
-/dr/
+dr/
 static/
